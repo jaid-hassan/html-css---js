@@ -6,9 +6,9 @@
     justify-content: center;
     align-items: center;
     height: 600px;
+    background-color: cadetblue;
 }
 .storage{
-    background-color: black;
     height: 500px;
     width: 100% ;
     overflow: hidden ;
@@ -18,22 +18,20 @@
     justify-content: center;
     align-items: center;
     border-radius: 20px;
-    background-color: blue;
     width: 40%;
     height: 100px;
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 10px;
+    background-color: blue;
 }
 .slider{
-    background-color:chartreuse;
     height: 100%;
     width: 600%;
     display: flex;
     transition:all 1s;
 }
 .slider section{
-    background-color: aqua;
     height: 100%;
     width: 100%;
     display: flex;
